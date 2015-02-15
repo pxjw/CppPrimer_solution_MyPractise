@@ -2,7 +2,8 @@
 //
 
 #include "stdafx.h"
-
+#include"classdefine.h"
+#include<iostream>
 
 int _tmain(int argc, _TCHAR* argv[])
 {
