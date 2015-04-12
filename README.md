@@ -1,4 +1,4 @@
-# cppPractise
+# CppPrimer_solution_MyPractise 
 * 记录我的日常练习代码，C++
 
 * This is my c plus plus practise.It's update by my mind.
