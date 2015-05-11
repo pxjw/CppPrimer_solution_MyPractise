@@ -11,10 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A9944D80-9E96-4E5F-8237-0E18257CA280}</ProjectGuid>
+    <ProjectGuid>{5D1488EA-53C8-4938-BF06-0EA5C151EF07}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My4_4345</RootNamespace>
-    <ProjectName>3_43-45</ProjectName>
+    <RootNamespace>My4_21</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -84,7 +83,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4_43-45.cpp" />
+    <ClCompile Include="4_21.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
